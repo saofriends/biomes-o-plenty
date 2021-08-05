@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://biomes-o-plenty.herokuapp.com/host-https-planetminecraftmods.com/sitemap_index.xml
+Sitemap: https://biomes-o-plenty.herokuapp.com/sitemap.xml
